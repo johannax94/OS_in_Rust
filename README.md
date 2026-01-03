@@ -28,3 +28,4 @@ Technical notes :
 - To print text on the screen after creating our kernel but let the _start entry point empty, we will use VGA text buffer
 - VGA text buffer is a specific memory area that will contain the content to display
 - VGA - Video Graphic Array - hardware piece
+- To make the kernel running, we need to link it with our bootimage before compile because rust does not support the treatment of files after compiling. 
