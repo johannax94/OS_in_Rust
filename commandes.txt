@@ -1,0 +1,3 @@
+POUR LANCER LE KERNEL :
+
+qemu-system-x86_64 -drive format=raw,file=target/x86_64_kernel-os/debug/bootimage-kernel-os.bin
