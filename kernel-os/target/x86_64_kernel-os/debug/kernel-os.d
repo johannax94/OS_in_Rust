@@ -1,1 +1,1 @@
-D:\COURS_4SIE\RUST\kernel_rust\kernel_os\OS_in_Rust\kernel-os\target\x86_64_kernel-os\debug\kernel-os: D:\COURS_4SIE\RUST\kernel_rust\kernel_os\OS_in_Rust\kernel-os\src\main.rs
+D:\COURS_4SIE\RUST\kernel_rust\kernel_os\OS_in_Rust\kernel-os\target\x86_64_kernel-os\debug\kernel-os: D:\COURS_4SIE\RUST\kernel_rust\kernel_os\OS_in_Rust\kernel-os\src\main.rs D:\COURS_4SIE\RUST\kernel_rust\kernel_os\OS_in_Rust\kernel-os\src\vga_buffer.rs

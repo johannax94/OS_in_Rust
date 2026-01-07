@@ -3,5 +3,5 @@ cargo:rustc-link-search=native=D:\COURS_4SIE\RUST\kernel_rust\kernel_os\OS_in_Ru
 cargo:rustc-link-lib=static=kernel_bin-kernel-os
 cargo:rerun-if-env-changed=KERNEL
 cargo:rerun-if-env-changed=KERNEL_MANIFEST
-cargo:rerun-if-changed=D:\COURS_4SIE\RUST\kernel_rust\kernel_os\OS_in_Rust\kernel-os\target\x86_64_kernel-os\debug\kernel-os
+cargo:rerun-if-changed=\\?\D:\COURS_4SIE\RUST\kernel_rust\kernel_os\OS_in_Rust\kernel-os\target\x86_64_kernel-os\debug\kernel-os
 cargo:rerun-if-changed=build.rs
