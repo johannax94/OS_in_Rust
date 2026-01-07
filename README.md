@@ -31,3 +31,4 @@ Technical notes :
 - To make the kernel running, we need to link it with our bootimage before compile because rust does not support the treatment of files after compiling. 
 - When running the build bootimage command: rust program is compiled and bootloader too, then they are linked and it creates a .bin file which contains our basic kernel
 - To boot our new kernel, we will use QEMU which is a virtual machine that can emulate a CPE etc.
+- To create the memory allocator, we will choose a SLAB Allocator 
