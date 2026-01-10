@@ -36,4 +36,4 @@ Technical notes :
 
 - To create the memory allocator, we will choose a SLAB Allocator
 - IDT (Interrupt Descriptor Table) - Each exception has a predefined IDT index
-- Rust proposes its own InterruptDescriptorTable struct in the x86_64 crate
+- Rust proposes its own InterruptDescriptorTable struct in the x86_64 crate so we don't need to recreate it
