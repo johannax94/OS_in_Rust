@@ -34,4 +34,6 @@ Technical notes :
 
 - We will use existing rust macros to create our own print and println functions (to laborious to do from scratch)
 
-- To create the memory allocator, we will choose a SLAB Allocator 
+- To create the memory allocator, we will choose a SLAB Allocator
+- IDT (Interrupt Descriptor Table) - Each exception has a predefined IDT index
+- Rust proposes its own InterruptDescriptorTable struct in the x86_64 crate
